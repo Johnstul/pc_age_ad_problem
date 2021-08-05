@@ -2,7 +2,7 @@
 
 Code created to solve a problem for an ad for PC AGE IT training, often seen on the NJ Transit Path train.
 
-Ad says: "You Either Have IT or you Don't!"
+Ad says: "You Either Have IT or You Don't!"
 
 Lists a sequence of numbers: 3, 4, 6, 9, 13 and asks "What comes next?"
 
