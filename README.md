@@ -17,3 +17,7 @@ https://nbviewer.jupyter.org/
 Copy and paste the below link(s) into the nbviewer page:
 
 https://raw.githubusercontent.com/Johnstul/pc_age_ad_problem/main/PC_Age_Ad_Prob_1c.ipynb
+
+Or click the link below:
+
+https://nbviewer.jupyter.org/github/Johnstul/pc_age_ad_problem/blob/main/PC_Age_Ad_Prob_1c.ipynb
