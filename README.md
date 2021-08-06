@@ -9,3 +9,11 @@ Lists a sequence of numbers: 3, 4, 6, 9, 13 and asks "What comes next?"
 "15., 16., 17., or 18."
 
 This code uses recursive and non-recursive functions to solve the problem plus more.
+
+Use the nbviewer to view the notebooks if the LaTeX does not appear properly:
+
+https://nbviewer.jupyter.org/
+
+Copy and paste the below links into the nbviewer page:
+
+https://raw.githubusercontent.com/Johnstul/pc_age_ad_problem/main/PC_Age_Ad_Prob_1c.ipynb
