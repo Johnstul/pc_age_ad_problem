@@ -14,6 +14,6 @@ Use the nbviewer to view the notebooks if the LaTeX does not appear properly:
 
 https://nbviewer.jupyter.org/
 
-Copy and paste the below links into the nbviewer page:
+Copy and paste the below link(s) into the nbviewer page:
 
 https://raw.githubusercontent.com/Johnstul/pc_age_ad_problem/main/PC_Age_Ad_Prob_1c.ipynb
