@@ -10,14 +10,8 @@ Lists a sequence of numbers: 3, 4, 6, 9, 13 and asks "What comes next?"
 
 This code uses recursive and non-recursive functions to solve the problem plus more.
 
-Use the nbviewer to view the notebooks if the LaTeX does not appear properly:
+You can also use the Nbviewer Online page to view the notebook:
 
 https://nbviewer.jupyter.org/
-
-Copy and paste the below link(s) into the nbviewer page:
-
-https://raw.githubusercontent.com/Johnstul/pc_age_ad_problem/main/PC_Age_Ad_Prob_1c.ipynb
-
-Or click the link below:
 
 https://nbviewer.jupyter.org/github/Johnstul/pc_age_ad_problem/blob/main/PC_Age_Ad_Prob_1c.ipynb
